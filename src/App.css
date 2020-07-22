@@ -22,7 +22,7 @@ body, HTML {
 
 .App {
     height: 100%;
-    background-image: url(/rainpic2.jpg);
+    background-image: url(rainpic2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
